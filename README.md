@@ -38,10 +38,3 @@ O **JORF** é um software desenvolvido em Java 17 para buscar Open Reading Frame
 
 5. **Exportação de Resultados**:
    - Exporte os resultados para o formato FASTA conforme necessário.
-
-## Contribuições
-Contribuições são bem-vindas! Se encontrar problemas ou tiver sugestões de melhorias, sinta-se à vontade para criar uma issue ou enviar um pull request.
----
-
-**Desenvolvido por [jamirnasci]**
-**Email: jamirnasci@gmail.com**
